@@ -461,7 +461,7 @@ Medidas implementadas:
 
 A EcoRoute é uma demonstração funcional de plataforma completa. O sistema apresenta frontend, backend, banco de dados, autenticação, dados de demonstração, painel administrativo, fluxo operacional e módulo de previsão. Para uso comercial, seriam necessários credenciais reais de pagamento, auditoria jurídica, política de privacidade, homologação de mapas, revisão de acessibilidade e operação permanente dos dados de ecopontos.
 
-Apresentação do projeto
+## Apresentação do projeto
 
 Vídeo de apresentação acadêmica do EcoRoute.
 
