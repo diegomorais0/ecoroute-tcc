@@ -107,7 +107,7 @@ A EcoRoute utiliza uma arquitetura cliente-servidor:
 - **Tempo real:** Socket.IO para avisos operacionais.
 - **Agenda e automação:** node-cron para rotinas internas.
 - **ML demonstrativo:** FastAPI, scikit-learn e modelo Gradient Boosting para previsão de volume de resíduos por área.
-- **Deploy:** Railway, com serviços separados para frontend e backend dentro do mesmo projeto.
+- **Deploy:** Render, com serviços separados para frontend e backend dentro do mesmo projeto.
 
 ## Estrutura de pastas
 
@@ -435,13 +435,14 @@ Os testes cobrem:
 
 ## Deploy
 
-O deploy recomendado é no Railway, com backend e frontend no mesmo projeto:
+O deploy recomendado é no Render, com backend e frontend hospedados em serviços separados:
 
-- serviço do backend usando `npm start`;
-- serviço do frontend usando `frontend/server.js`;
+
+- serviço do backend usando npm start;
+- serviço do frontend usando frontend/server.js;
 - variáveis de ambiente configuradas no painel;
 - MongoDB Atlas ou outro MongoDB externo;
-- domínio gerado pelo Railway.
+- domínio gerado pelo Render.
 
 ## Segurança
 
