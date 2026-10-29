@@ -15,4 +15,4 @@ npm start
 
 ## Observação de deploy
 
-No Railway, o frontend é compilado com `npm run build` e servido por `server.js`, que entrega os arquivos estáticos de `dist` e aplica fallback para rotas internas da SPA.
+No Render, o frontend é compilado com `npm run build` e servido por `server.js`, que entrega os arquivos estáticos de `dist` e aplica fallback para rotas internas da SPA.
