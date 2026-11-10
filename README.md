@@ -466,4 +466,4 @@ A EcoRoute é uma demonstração funcional de plataforma completa. O sistema apr
 
 Vídeo de apresentação acadêmica do EcoRoute.
 
-Link do vídeo: será adicionado após a gravação.
+Link do vídeo: https://drive.google.com/file/d/1UerJHJn5T6Aq6PL14lppGpntucHsZKRb/view?usp=sharing
